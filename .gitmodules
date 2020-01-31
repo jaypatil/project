@@ -1,3 +1,4 @@
 [submodule "logger"]
 	path = logger
 	url = https://github.com/jaypatil/logger.git
+	fetchRecurseSubmodules = true
